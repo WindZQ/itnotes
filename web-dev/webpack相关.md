@@ -252,6 +252,8 @@ new ParallelUglifyPlugin()
 
 ## webpack-dev-server
 
+提示：webpack-dev-server生成在内存众的各项资源可在http://localhost:8080/webpack-dev-server下查看（这里假设端口设置为8080）。
+
 配合webpack的简单web服务器。webpack-dev-server的配置直接在module下，`plugins[]`外。
 
 ```javascript

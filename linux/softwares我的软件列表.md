@@ -424,6 +424,7 @@ ff指firefox，ch指的是chrome/chromium，没有说明则默认ff。以firefox
     - gnome-schedule
     - fcronq
     - gcrontab
+- etckeeper  使用版本控制备份etc目录
 ##  安全
 
 - 防火墙
